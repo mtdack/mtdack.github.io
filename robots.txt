@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mtdack.github.io/sitemap.xml
